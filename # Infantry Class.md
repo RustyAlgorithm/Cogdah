@@ -76,7 +76,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 **Marksman** ~Sniping and camoflage~
 
-**Pathfinder** ~Stealth short range/melee~
+**Pathfinder** ~Stealth short range/melee~ **Stealth Manouvers** duck run and combat crawl give advantage on stealth checks and remaining hidden
 
 **Battle Scribe** ~Magic~ Wisdom
 
