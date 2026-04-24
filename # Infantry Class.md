@@ -1,6 +1,6 @@
 # Infantry Class
 
-Infantry are the backbone of any army especially those at war. The war of Cogdah is no different, infact due to the nature and scale of the war everyone even medics are infantry first. Thats why when playing this setting there is one class, Infantry, this class has ten sub-classes that allow for more varied styles of play but to emphisise the  point of how war torn and decolate the isles of cogdah are the idea that you could dedicate anytime to anything other then the war effort has lead to things being forgotten, things like music, art, academic and arcane pursuits are considered wastes of time in this current age.
+Infantry are the backbone of any army especially those at war. The war of Cogdah is no different, in fact due to the nature and scale of the war everyone even medics are infantry first. That's why when playing this setting there is one class, Infantry, this class has ten sub-classes that allow for more varied styles of play but to emphasis the  point of how war torn and desolate the isles of cogdah are the idea that you could dedicate anytime to anything other then the war effort has lead to things being forgotten, things like music, art, academic and arcane pursuits are considered wastes of time in this current age.
 
 As an Infantry, you gain the following class features
 
@@ -36,7 +36,7 @@ As an Infantry, you gain the following class features
 **Hit Points at Higher Levels:** :: 1d8 (or 5) + your Constitution modifier per haberdasher level after 1st
 
 #### Proficiencies
-**Armor:**   :: Greatcoat, Soldier Armour, Assault Coat.
+**armour:**   :: Greatcoat, Soldier Armour, Assault Coat.
 **Weapons:** :: Infantry Rifle, Combat Knife, Trench Shovel, Trench Club
 **Tools:**   :: Weapon Cleaning Kit.
 
@@ -61,22 +61,29 @@ You start with the following equipment, in addition to the equipment granted by 
 
 \page
 ### Specialisations
-**NCO/Officer** once per long rest you can add an activation die to the bag. Gains proficentcy in side arms, SMGs, and 2 of the following Intimidation, Persuation, Deception, insight, perception, investigation
+**NCO/Officer** 
+Gains proficiency in side arms, SMGs 
+Gain 2 of the following Intimidation, Persuasion, Deception, insight, perception, investigation.
+Inspiration Die this class should give inspiration die, like a bard as its the charismatic leader class
 
-**Medic**  gain adv in medicine, and in nature when related to healing. prof in *healers kit* and can use 1 healers kit to give stable unconsious creature 25% of hit points back.
+once per long rest you can add an activation die to the bag.
 
-**Sapper** Adv. in History, slight of hand when dealing with explosives, emplacements Or Defensive Terrain Gains proficentcy in SMGs and Carbines
+**Medic**  At 3rd level you gain advantage in medicine, and nature when related to healing.
+
+**Medics Bag** At 3rd level you gain proficiency in *healers kit* and can use 1 healers kit to give stable unconscious creature 25% of hit points back.
+
+**Sapper** Adv. in History, slight of hand when dealing with explosives, emplacements Or Defensive Terrain Gains proficiency in SMGs and Carbines
 
 **Gunner** ~Machine Guns, Machine Guns while moving~ 
 
 ***Suppressive Fire.*** Using a Suppressive Fire can make a normal single-target attack, or it can spray a 15-foot-cube area within normal range with shots. All creatures in the area must succeed on a Dexterity saving throw or take the weapon's normal damage. This action uses ten pieces of ammunition. The DC is 8 + your attack modifier + your proficiency bonus, if you are proficient with the weapon.
 
 
-**Ordinace** ~mortars, rocket launchers and man portable AV~
+**ordinance** ~mortars, rocket launchers and man portable AV~
 
-**Marksman** ~Sniping and camoflage~
+**Marksman** ~Sniping and camouflage~
 
-**Pathfinder** ~Stealth short range/melee~ **Stealth Manouvers** duck run and combat crawl give advantage on stealth checks and remaining hidden
+**Pathfinder** ~Stealth short range/melee~ **Stealth manoeuvres** duck run and combat crawl give advantage on stealth checks and remaining hidden
 
 **Battle Scribe** ~Magic~ Wisdom
 
@@ -87,13 +94,13 @@ You start with the following equipment, in addition to the equipment granted by 
 **Spell attack modifier**:: = your proficiency bonus + your Wisdom modifier
 }}
 
-**Medic scribe** ~Magic Heals~ Inteligence
+**Medic scribe** ~Magic Heals~ intelligence
 
 #### Spellcasting Ability
 {{text-align:center
-**Spell save DC**:: = 8 + your proficiency bonus + your Inteligence modifier
+**Spell save DC**:: = 8 + your proficiency bonus + your intelligence modifier
 
-**Spell attack modifier**:: = your proficiency bonus + your Inteligence modifier
+**Spell attack modifier**:: = your proficiency bonus + your intelligence modifier
 }}
 
 **Padre** ~Religion~ Charisma
