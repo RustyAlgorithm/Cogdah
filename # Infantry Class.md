@@ -56,7 +56,9 @@ You start with the following equipment, in addition to the equipment granted by 
 <br>
 
 **Hit the Deck** At 3rd level once per short rest as a reaction is you are surprised you can go prone without using any movement
-<br><br>
+<br>
+<br>
+
 **Duck Run** At 6th level once per turn at the end of your next 15ft. or more movement if you remain stationary, after until the end of your turn you gain +2 to your AC until you are either hit by an attack or the start of your next turn whichever is first.
 
 \page
@@ -70,13 +72,15 @@ once per long rest you can add an activation die to the bag.
 
 **Medic**  At 3rd level you gain advantage in medicine, and nature when related to healing.
 
-**Medics Bag** At 3rd level you gain proficiency in *healers kit* and can use 1 healers kit to give stable unconscious creature 25% of hit points back.
+**Medics Bag** At 3rd level you gain proficiency in *healers kit* and can use 1 healers kit to give stable unconscious creature 25% of hit points back rounded down.
 
-**Sapper** Adv. in History, slight of hand when dealing with explosives, emplacements Or Defensive Terrain Gains proficiency in SMGs and Carbines
+**Sapper** At 3rd level you gain advantage in History, slight of hand when dealing with explosives, emplacements Or Defensive Terrain Gains you also gain proficiency in SMGs and Carbines.
+
+**Sappers Tools** At 3rd level you gain proficiency in *tinkers tools* you can use your bonus action to disarm an explosive, disable an emplacment or weaken defensive structures. you can use an action instead to reset the trigger of an explosinve making it save to carry. 
 
 **Gunner** ~Machine Guns, Machine Guns while moving~ 
 
-***Suppressive Fire.*** Using a Suppressive Fire can make a normal single-target attack, or it can spray a 15-foot-cube area within normal range with shots. All creatures in the area must succeed on a Dexterity saving throw or take the weapon's normal damage. This action uses ten pieces of ammunition. The DC is 8 + your attack modifier + your proficiency bonus, if you are proficient with the weapon.
+**Suppressive Fire.** At 3rd level you can use the Suppressive Fire action. Using a Suppressive Fire action you make a normal single-target attack on a point you can see within normal range of a weapon you are proficient with. All creatures in within a 15 foot sphere must succeed on a Dexterity saving throw or take the weapon's normal damage. and be restrained. The DC is 8 + your attack hit bonus. This action uses ten pieces of ammunition.
 
 
 **ordinance** ~mortars, rocket launchers and man portable AV~
