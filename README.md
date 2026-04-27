@@ -14,6 +14,7 @@ A First World War-themed homebrew campaign expansion for Dungeons & Dragons Fift
 
 - **The Isle of Cogdah.md** - Complete campaign setting documentation, history, and lore
 - **Infantry Class.md** - Custom class for soldiers and combatants
+- **Infantry Class (OLD).md** - Previous version of the Infantry Class (archived for reference)
 - **Equipment File.md** - Weapons, armor, and gear balanced for the campaign
 - **Formatting** - Visualization and styling resources
 
