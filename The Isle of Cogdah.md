@@ -29,13 +29,28 @@ By RustyDM
 \page
 
 # History of Cogdah
+
+## The Beginning
   On the Isles of Cogdah, war has been has been raging since two of the isles tribes first met each other. Eventually those tribes met other races and joined forces to fight the outside threat of those other races. 5000 years of war later, each race has devised its own unique style of weaponry and technology harnessing magic, science or some combination of the two to achieve devastating results.
  The largest battle of the war so far saw armies from every race push all at the same time to be the victor and stand proud to rule of the war-torn islands once and for all. However 5 months into this devastating, unrelenting battle a giant beam of unnatural energy burst forth from the ground and unleashed waves of hellish beasts that slaughtered thousands indiscriminately. This diabolical force pushed every faction’s lines back into their own territories; the beam ever expanding to fill the war ravaged no man’s land they left behind. The beam expanded until it seemed to reach its critical size where upon it vanished in an instant leaving behind a great fortress full of even more hellish creatures. The appearance of this ‘Hellfort’ as many called it, was known across every race as The Arrival.
  
 ## The Arrival
 On the night of The Arrival silence fell across the isles of Cogdah for the first time in centuries. Each side shocked at the sudden appearance of this new threat. Simultaneously in the war rooms of each faction a figure appeared, the figure seem to be a man but many realised this was a facade and that the man known only as the messenger was likely not as he seemed. Across the factions several attempted to shoot the messenger revealing that he was in fact more the what he seemed as a dark force blocked the incoming attacks without issue. When the dust finally settled and everyone calmed down he declared he brought a message from his masters The Sovereignty of the Three their intentions to conquer this world and that anyone willing to join their conquest would be welcomed into their liberation army and granted unforetold gifts.
 
+
+
 #### The Message.
+
+{{quote
+  Great Warriors of the Cogdua Islands.
+
+  It is with great virtue that we send our most trusted messenger to deliver this message. We the Three have admired your pension for abhorrent violence for several millennia and believe your unique abilities for righteous conquest has brought us here now. we feel the wider world the one beyond your horizons is broken. we aim to fix that and while our brothers and sisters have tried to clean the world passively we feel a more authoritative approach is required. Naturally we want you to be the face of that authority all marching under 1 banner ours taking out those who misuse this world for villainy and removing them. slaughtering anyone in our way, and choking the out the weakness in this world.
+
+  Join us at the entrance to our Righteous Citadel by daybreak. or be considered our enemy.
+
+  B. T. G.
+  The Sovereign Three.
+}}
 
 This message received a very mixed response across the various factions. Some generals and commanders seeking any advantage they could get immediately suggest they join this seemingly powerful force. While others took a step back and reassessed their history. his forces. Orcrus set an ultimatum, all those willing to join him were to wait at the Hellfort’s gates a week from now or be destroyed. Following this, a week of deliberating and in-fighting led to almost half of every force denouncing their allegiance to their kingdoms and uniting at the Hellfort’s doors. The loss of almost half their fighting force left The Five Domains defences crippled and only one course of action.
 
@@ -73,84 +88,3 @@ The Humans having neither the numbers of Orcs nor the intrinsic magical abilitie
  
 
 \page
- ## Infantry
-_
-<div class='classTable wide'>
-##### Infantry
-| Level | Proficiency Bonus | Focus Points | Features |
-|:---:|:---:|:---:|:---:|
-| 1st  | +2 | 1 | Weapons Training, Conditioning |
-| 2nd  | +2 | 1 | Action Surge |
-| 3rd  | +2 | 1 | Spicaialisation |
-| 4th  | +2 | 2 | Ability Score Improvement |
-| 5th  | +3 | 2 | Extra Attack |
-| 6th  | +3 | 2 | Ability Score Improvement |
-| 7th  | +3 | 3 | Specialisation Feature |
-| 8th  | +3 | 3 | Ability Score Improvement | 
-| 9th  | +4 | 3 | Indomitable (one use) |
-| 10th | +4 | 4 | Specialisation Feature |
-| 11th | +4 | 4 | Extra Attack (2) |
-| 12th | +4 | 4 | Ability Score Improvement |
-| 13th | +5 | 4 | Indomitable (two uses) |
-| 14th | +5 | 5 | Ability Score Improvement |
-| 15th | +5 | 5 | Specialisation Feature |
-| 16th | +5 | 5 | Ability Score Improvement |
-| 17th | +6 | 5 | Action Surge (two uses), Indomitable (three uses) | 
-| 18th | +6 | 6 | Specialisation Feature |
-| 19th | +6 | 6 |Ability Score Improvement |
-| 20th | +6 | 6 | Weapon Mastery, Extra Attack (3) |
-</div>
-
-## Class Features
-As Infantry, you gain the folloing class features.
-
-___
-#### Hit Points
- - **Hot Dice:** 1d10 per infantry level
- - **Hit Points at 1st Level:** 10 + your constitution modifier
- - **Hit Points at Higher Levels:** 1d10 + your constitution modifier per infantry level after 1st
-
-#### Proficiences
- - **Armour:** Light Armour
- - **Weapons:** Simple Melee, infantry rifle, carbine & Revolver.
- - **Tools:** Shovel
- - **Saving Throws:** Constitution, Dexterity.
- - **Skills:** Choose two from; Athletics, Acrobatics, Animal Handling, Perception, Intimidation, Insight and Survival.
-
-
-
- 
-### Weapons Training
- At 1st level you gain proficency with Infantry Rifle and Infantry Armour
-
-### Specialisation's
- There are many specialisations in the FA Including; Support Gunner, Engineer, Marksman, Demolitions, Cavilier & Medic.
- 
- **Support Gunner:** as a support gunner you gain access to 
- \page
-# Spells
-
-### Pardre Spells
-
-##### Cantrips
-Guidence,<br>
-Sacred Flame,<br>
-Spare the Dying,<br>
-Light,
-
-##### 1st Level
-create destroy water,<br>
-shield of faith,<br>
-bless <br> 
-Bane <br>
-cure wounds <br>
-inflict wounds <br>
-healing word <br>
-guided bolt <br>
-protection from good and evil <br>
-detect good and evil
-
-
-##### 2nd Level
-aid <br>
-Enhance ability
