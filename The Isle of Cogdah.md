@@ -41,10 +41,10 @@ This message received a very mixed response across the various factions. Some ge
 
 <br>
 
-### The Message
+{{note,
 
-{{quote,
-   Great Warriors of the Cogdua Islands.<br><br>
+### The Message
+   Great Warriors of the Cogdah Islands.<br><br>
 
   It is with great virtue that we send our most trusted messenger to deliver this message. We the Three have admired your pension for abhorrent violence for several millennia and believe your unique abilities for righteous conquest has brought us here now. we feel the wider world the one beyond your horizons is broken. we aim to fix that and while our brothers and sisters have tried to clean the world passively we feel a more authoritative approach is required. Naturally we want you to be the face of that authority all marching under 1 banner ours taking out those who misuse this world for villainy and removing them. slaughtering anyone in our way, and choking the out the weakness in this world.<br><br>
 
@@ -61,7 +61,9 @@ This message received a very mixed response across the various factions. Some ge
 The loss of troops from The Five Domains left them vulnerable and desperately weak knowing that they could be slaughtered freely at any time in the coming days. Messengers were quickly despatched to arrange an emergency truce while the leaders of each Domain came together at the great Dwarven citadel and tank factory, Eldr-Jarn which was widely regarded as the most impenetrable fortress in all of Cogdah.
 
 
-After hours of arguments and insults a blinding white light appeared from the sky and a voice addressed those at the table. It blamed the people of Cogdah for summoning Orcrus and that it was now their duty to repel Orcrus’ unholy assault as the Angels were unwilling to help the people of Cogdah until they had proven their worth after so many centuries off violence. Following this heavenly instruction an alliance was quickly drawn up, uniting the armies of The Five Domains under one banner. Thus The Final Alliance was formed to fight back against Orcrus and his legions and stop his vision of world conquest in its tracks.
+After hours of arguments and insults a blinding white light appeared from the sky and a voice addressed those at the table. It blamed the people of Cogdah for their insistance on bloodshed and creating more horrific ways to kill each other and that it was now their duty to repel The Sovereignty of the Three's unholy assault. When asked for aid in repelling the coming attack the were told that the divine were unwilling to help the people of Cogdah until they had proven their worth after so many centuries off violence. Following this heavenly instruction an alliance was quickly drawn up, uniting the armies of The Five Domains under one banner. Thus The Final Alliance was formed to fight back against The Three, their legions and stop their vision of world conquest in its tracks.
+
+\page
 
 <img src='https://i.imgur.com/LetWx7Q.png' style='position:absolute; z-index:-2; bottom:200px;right:2px;width:400px; filter:sepia(50%)'/>
 <img class="boarder" src='https://i.imgur.com/pEJl0m5.png' style='position:absolute; z-index: -1; bottom:-120px; right:-220px;width:700px; transform:rotate(90deg)'/>
@@ -71,7 +73,7 @@ After hours of arguments and insults a blinding white light appeared from the sk
 
 
 ## The Races of Cogdah
-While Diverse the Races of Cogdah are few  in comparason to Gaia as a whole.
+While Diverse the Races of Cogdah are few  in comparason to Gaia(FaeRun) as a whole.
 
 ### The Tri-Dominion
  Near the beginning of the war the Dwarves and their Halfling and Gnome allies made several key breakthroughs in the development of their heavily armoured mechanised war machines known as tanks. They now produce many variants of these in differing shapes and sizes fulfilling many different purposes. Impervious to small arms and most direct fire weaponry they would roll inexorably to their target where the tanks would open fire with their mounted cannons wreaking havoc upon anyone unfortunate to be nearby, Allowing the Halfing infantry forces to move in and take the objective.
