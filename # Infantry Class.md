@@ -55,7 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ## Class Features
 <br>
 
-**Hit the Deck** At 3rd level once per short rest as a reaction is you are surprised you can go prone without using any movement
+**Hit the Deck** At 3rd level once per short rest as a reaction *if you are surprised* you can go prone without using any movement
 <br>
 <br>
 
@@ -92,9 +92,13 @@ once per long rest you can add an activation die to the bag.
 
 **Marksman** ~Sniping and camouflage~
 
+**Camo Cloak** At level 6 camo cloak
+
 **Pathfinder** ~Stealth short range/melee~ 
 
 **Stealth manoeuvres** duck run and combat crawl give advantage on stealth checks and remaining hidden
+
+**Camo Cloak** At level 6 camo cloak
 
 **Battle Scribe** ~Magic~ Wisdom
 
