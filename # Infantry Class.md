@@ -13,7 +13,7 @@ As an Infantry, you gain the following class features
 |  3rd  | +2 | Specialisation, Hit the Deck. |
 |  4th  | +2 | Ability Score Improvement |
 |  5th  | +3 | - |
-|  6th  | +3 | Duck Run |
+|  6th  | +3 | Duck Run, Silent Communication |
 |  7th  | +3 | Specialisation Feature |
 |  8th  | +3 | Ability Score Improvement | 
 |  9th  | +4 | Extra Attack |
@@ -60,6 +60,10 @@ You start with the following equipment, in addition to the equipment granted by 
 <br>
 
 **Duck Run** At 6th level once per turn at the end of your next 15ft. or more movement if you remain stationary, after until the end of your turn you gain +2 to your AC until you are either hit by an attack or the start of your next turn whichever is first.
+<br>
+<br>
+
+**Silent Communication** At 6th level you can now communicate with other details as a bonus action and without making noise the other detail MUST have line of sight to you.
 
 \page
 ### Specialisations
@@ -84,12 +88,13 @@ once per long rest you can add an activation die to the bag.
 
 **Suppressive Fire.** At 3rd level you can use the Suppressive Fire action. Using a Suppressive Fire action you make a normal single-target attack on a point you can see within normal range of a weapon you are proficient with. All creatures in within a 15 foot sphere must succeed on a Dexterity saving throw or take the weapon's normal damage. and be restrained. The DC is 8 + your attack hit bonus. This action uses ten pieces of ammunition.
 
-
 **ordinance** ~mortars, rocket launchers and man portable AV~
 
 **Marksman** ~Sniping and camouflage~
 
-**Pathfinder** ~Stealth short range/melee~ **Stealth manoeuvres** duck run and combat crawl give advantage on stealth checks and remaining hidden
+**Pathfinder** ~Stealth short range/melee~ 
+
+**Stealth manoeuvres** duck run and combat crawl give advantage on stealth checks and remaining hidden
 
 **Battle Scribe** ~Magic~ Wisdom
 

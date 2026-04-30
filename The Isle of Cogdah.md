@@ -67,25 +67,25 @@ After hours of arguments and insults a blinding white light appeared from the sk
 <img src='https://i.imgur.com/LetWx7Q.png' style='position:absolute; z-index:-2; bottom:200px;right:2px;width:400px; filter:sepia(50%)'/>
 <img class="boarder" src='https://i.imgur.com/pEJl0m5.png' style='position:absolute; z-index: -1; bottom:-120px; right:-220px;width:700px; transform:rotate(90deg)'/>
 
+
+
 \page
 
-
-
 # The Races of Cogdah
-While Diverse the Races of Cogdah are few in comparison to that of the rest of Gaia as a whole Smaller more unique species where forced into extinction through the many millennia of war Cogdah has faced. Over the years however the stronger or smarter races of Cogdah began forming small alliances: the Dwarves, Gnomes and Halfilngs joined forces Calling themselves The Tri Dominion, The former Elven Kingdoms with their many differences but that aside to protect their heritage and formed the Elven empire where a council of elven elders rule with executive power held by a single elected member of the people, Early on in the war the dragonborns of the western isle and the tieflings of the eastern isle were nearly wiped out, they each fled to the rivers and met each other desperate for survival the made the first cross species alliance now known as the ancient alliance, the orcs and humans are the only species that has not had to make cross species alliences the orc war-horde is so big in number that they have never been the smallest, and the humans have where spread across every isle in such vast numbers they to have only known what it is like to be on the back foot numbers wise.
+Despite their diversity, Cogdah's races are fewer and more unique than those elsewhere in Gaia, and many have fallen to extinction due to millennia of war. Over time, the strongest or smartest races formed alliances: Dwarves, Gnomes, and Halflings united as The Tri-Dominion; the Elven Kingdoms, despite their differences, coalesced into the Elven Empire, governed by a council of elven elders elected by the populace. Early in the war, Dragonborn of the western isle and Tieflings of the eastern isle narrowly escaped annihilation, fleeing to the rivers and forging the first cross-species alliance—known as the Ancient Alliance. Orcs and humans, unaligned historically, have not needed such alliances—orc hordes are vast, and humans are widespread across every isle.
+
 
 ### The Tri-Dominion
-the Dwarves and their Halfling and Gnome allies made several key breakthroughs in the development of their heavily armoured mechanised war machines known as tanks. They now produce many variants of these in differing shapes and sizes fulfilling many different purposes. Impervious to small arms and most direct fire weaponry they would roll inexorably to their target where the tanks would open fire with their mounted cannons wreaking havoc upon anyone unfortunate to be nearby, Allowing the infantry forces to move in and take the objective. While Dwarves claim to have invented the technology it is the highly skilled tinkerers of the gnomes that build and maintain them so efficiently that makes them truly terrifying this is why Gnomes are rarely seen on the battlefield anymore. all the while halflings were put to work in the infantry where it was discovered that not only are they immensely remarkable shot but have a pension for stealth and carved out a highly specialised role for themselves where others fail they excel at so naturally new Halflings recruits are sent straight to the stealth corps immediately.
+The Dwarves and their Halfling and Gnome allies made several key breakthroughs in the development of their heavily armoured mechanised war machines known as tanks. They now produce many variants of these in differing shapes and sizes fulfilling many different purposes. Impervious to small arms and most direct fire weaponry they would roll inexorably to their target where the tanks would open fire with their mounted cannons wreaking havoc upon anyone unfortunate to be nearby, Allowing the infantry forces to move in. While Dwarves claim to have invented the technology it is the highly skilled tinkerers of the gnomes that build and maintain them so efficiently that makes them truly terrifying this is why Gnomes are rarely seen on the battlefield any more. While halflings were put to work in the infantry where it was discovered that not only are they immensely remarkable shot but have a pension for stealth and carved out a highly specialised role for themselves where others fail they excel at so naturally new Halflings recruits are sent straight to the stealth corps immediately.
  
 ### The Elven Empire
 After their formation into the elven empire it was clear that they were all trying to do too much in the way of developments. and where failing them all until they looked to the skies, the Elves focused on marvels of physics called aeroplanes which soared through the air at breakneck speeds destroying static emplacements and convoys alike with ease. The speed and manoeuvrability of these flying machines meant there was often precious little defending forces could do while death and destruction rained all around them. While the Drow and High Elves put their superficial differences aside to focus on these aeroplanes, Others like the Wood Elves focused more on their natural talents, stealth and ground warfare. rivalling that of the Halflings
 
-### The Ancient Allience
+### The Ancient Alliance
 Early on in the war, Dragonborn and Tiefling struck up an accord and fighting alongside one another took up the moniker of the Ancient Alliance. The Alliance while comparatively small in numbers, made up for this by being the most magically potent faction. This concentration of magic allowed the Alliance to build and animate large automatons known as the Warforged. The Warforged, along with specialised Golems designed to counter the new advances in warfare making the Ancient Alliance a force to be reckoned with. with more and more advancements these warforged started becoming their own people. and are now aside from their physical appearance are indistinguishable from a sentient being.
 
-
 ### The Great Orc War-Horde
-With the intricacies of mechanics holding little interest to them, the Orcs carried on the way they always had, grinding down their enemies defences with never ending hordes of raging Orcs until inevitably those defences collapse and the Orcs overwhelm their enemies. Orc don't innovate they steal from what they kill orc are very adaptive learners and have an affinity for weapons of war they will be able to learn a brand new weapon system in a matter of moments rather then days like a human, the orcs travel as a nomadic horde and dont settle anywhere more then several weeks. it been a particularly hard on the hordes moral to have family leave like they did and to be fighting them on the battlefield has lead the orcs to pull their punches.
+With the intricacies of mechanics holding little interest to them, the Orcs carried on the way they always had, grinding down their enemies defences with never ending hordes of raging Orcs until inevitably those defences collapse and the Orcs overwhelm their enemies. Orc don't innovate they steal from what they kill orc are very adaptive learners and have an affinity for weapons of war they will be able to learn a brand new weapon system in a matter of moments rather then days like a human. Orcs travel as a nomadic horde and don't settle anywhere more then several weeks. its been a particularly hard on the hordes moral to have family leave like they did and to be fighting them on the battlefield has lead the orcs to pull their punches.
 
 ### The Human Kingdoms
 The Humans having neither the numbers of Orcs nor the intrinsic magical abilities of the Ancient Alliance turned to their engineers to build machines capable of overcoming these new threats. For the slow, ponderous Dwarven tanks, they built artillery capable of landing devastating blows to the comparatively weak top armour. For the smaller and nimbler Golems and Warforged of the Ancient Alliance, man portable rocket guns were developed however it was quickly realised these posed as much threat to friendlies as they did enemies at close range. This lead to the development of devastating high calibre, armour piercing anti-golem rifles. For the Elven flying machines the developed fast aiming anti-air emplacements mounting several rapid fire guns which filled the sky with devastating explosive rounds. To defend against the Orc masses, rapid fire machine guns were developed that could mow through a wave of Orcs like a scythe through hay.
@@ -93,12 +93,29 @@ The Humans having neither the numbers of Orcs nor the intrinsic magical abilitie
 
 \page
 
+
 # Combat Rules Changes
 
-In the Isles of Cogdah, Combat works somewhat differently. From initiative to Damage Thresholds, we've made some changes to make it feel more like a war setting. so please read these rules before playing.
+In the Isles of Cogdah, Combat works somewhat differently. From initiative to Damage Thresholds, we've made some changes to make it feel more like a war setting. taking inspiration for tabletop wargames like Warhammer 40,000 and Bolt Action. so please read these rules before playing.
+<br>
+<br>
 
 ### Random Initiative Activation
 
 #### Initiative Order
 
-In The Isle of Cogdah initiative is handled differently, before combat the party should determine how to operate in battle this will determine the number of tokens the party gets for the combat. 
+In The Isle of Cogdah initiative is handled differently, before combat the party or *"section"* enter a Planning phase in this phase players determine how many details *(See Number of Tokens)* they want to break into this will determine the number of tokens the section gets for the combat. tokens are placed into a bag with any other tokens and then tokens are drawn to determine who gets to go players should ideally elect a section leader this person would determine who takes there turn ***BUT*** this is entirely up to the DM and players to decide how they want to do it.
+
+###### Number of Tokens
+
+Tokens are added based on the number of *"details"* the section has. for example if the section stays together they have one token this would mean when the token is pulled the whole team can take their turn at the same time. is a section is broken into several details lets say a 4 player section is broken down into 3 sections 1 of 2 players and 2 of 1 player this would be 3 tokens to pick from. A detail is considered to be a independent creature more then 10ft. away from detail or section and can be created during combat, to create a detail during combat the creatures must simply move more then 10ft. away from their current detail and finish their turn. if single creature moves more then 10ft. away but finishes their turn with 10ft of the rest of the detail they do not have to be considered a separate detail. 
+<br>
+{{note
+*A detail can only be activated once per battle round, unless otherwise specified for example a player with the Officer Specialisation gains an ability to add a token to the bag this is always the last token for the team and can be used on anyone of the officers choosing, even if the officer is not the section leader.*
+}}
+
+Tokens can come from anything that gets a turn. be it enemies, Neutral Creatures such as civilians or the environment. it is encouraged for the DM to consider using the start of the round and end of the round for environmental actions that happen with regular intervals for example artillery strikes. 
+
+###### Turns
+
+When your token is pulled you can take your turn as per normal, action, bonus action and movement, but you take them as a detail at the same time, you can communicate within your detail without using any action but to communicate with different a detail uses an action and a reaction of the other detail to respond if they choose the degree of which is determined by the DM if a thumbs up counts as a response or not. other then this as stated you turn is as normal plays in a detail take their turn in any order they choose as normal as well you do not all have to move then act at the same time this allows a detail of 3 for example to have to members move up and while being covered by the third and then the third to move up while being covered by the first two. as long as they finish their turn within 10ft of the rest of the detail there is no need to create a separate token
