@@ -1,0 +1,129 @@
+// Dungeoneer subclass for the Artificer
+ClassSubList["artificer-Dungeoneer"] = {
+	regExpSearch : /^(?=.*artificer)(?=.*Dungeoneer)(?!.*wizard).*$/i,
+	subname : "Dungeoneer",
+	source : ["AA", 8],
+	features : {
+		"subclassfeature3" : {
+			name : "Bambi",
+			source : ["AA", 8],
+			minlevel : 3,
+			action : ["action", " (Command)"],
+			description : desc([
+				"I craft a strong arcane powered creature to help me hold doors open."
+			])
+		},
+		"subclassfeature9" : {
+			name : "",
+			source : ["AA", 8],
+			minlevel : 9,
+			description : desc([
+				"I learn Alchemical Formulae that I can use if I have my Dungeoneer's Satchel within reach",
+				"I learn the Alchemical Acid and Fire formulae, and additional depending on my level",
+				"Use the \"Choose Feature\" button above to select additional Alchemical Formulae"
+			]),
+			additional : levels.map(function (n) {
+				if (n < 3) return "1 additional formula";
+				if (n < 9) return "2 additional formula";
+				if (n < 14) return "3 additional formula";
+				if (n < 17) return "4 additional formula";
+				return "5 additional formula";
+			}),
+			extraname : "Alchemical Formula",
+			extrachoices : ["Healing Draught", "Smoke Stick", "Swift Step Draught", "Tanglefoot Bag", "Thunderstone"],
+			"healing draught" : {
+				name : "Healing Draught",
+				source : ["AA", 8],
+				description : desc([
+					"As an action, I can take a vial of healing liquid from my satchel, which lasts for 1 hour",
+					"Anyone can drink this as an action, healing in doing so, after which the vial disappears",
+					"One vial heals a number of d8 equal to half my artificer level (rounded up) in HP",
+					"After being healed this way, a creature can't do so again until it finishes a long rest",
+					"While a Healing Draught exists, I can't use this formula to create another one"
+				]),
+				action : ["action", ""],
+				additional : levels.map(function (n) {
+					return "Heals " + Math.ceil(n / 2) + "d8";
+				})
+			},
+			"smoke stick" : {
+				name : "Smoke Stick",
+				source : ["AA", 8],
+				description : desc([
+					"As an action, I can take a smoke stick from my satchel and throw it up to 30 ft away",
+					"The stick produces smoke in a 10-ft radius around it, blocking vision, incl. darkvision",
+					"It disappears after 1 minute; After creating one, I can't create a new one for 1 minute"
+				]),
+				action : ["action", ""]
+			},
+			"swift step draught" : {
+				name : "Swift Step Draught",
+				source : ["AA", 8],
+				description : desc([
+					"As a bonus action, I take a vial of brown liquid from my satchel, which lasts for 1 minute",
+					"Any creature can drink this vial as an action, gaining +20 ft speed for 1 minute",
+					"After use, the vial disappears; After creating one, I can't create a new one for 1 minute"
+				]),
+				action : ["bonus action", ""]
+			},
+			"tanglefoot bag" : {
+				name : "Tanglefoot Bag",
+				source : ["AA", 9],
+				description : desc([
+					"As an action, I can hurl a bag of black tar to a point on the ground within 30 ft",
+					"It bursts and covers the ground with sticky goo in a 5-ft radius, which lasts for 1 min",
+					"It is difficult terrain and anyone starting its turn in it has its speed halved for that turn",
+					"After creating one, I can't create a new one for 1 minute"
+				]),
+				action : ["action", ""]
+			},
+			"thunderstone" : {
+				name : "Thunderstone",
+				source : ["AA", 9],
+				description : desc([
+					"As an action, I can hurl a crystalline shard at a creature/object/surface within 30 ft",
+					"It shatters on impact and any creature within 10 ft must make a Constitution save",
+					"If failed, a creature is knocked prone and pushed 10 ft away from the point of impact"
+				]),
+				action : ["action", ""]
+			}
+		},
+		"subclassfeature14" : {
+			name : "Formula: Alchemical Acid",
+			source : ["AA", 8],
+			minlevel : 14,
+			description : desc([
+				"As an action, I can hurl a vial of acid at a creature or object within 30 ft",
+				"It shatters on impact and the target must succeed on a Dex save or take acid damage",
+				"An object automatically fails its saving throw and takes maximum damage"
+			]),
+			additional : levels.map(function (n) {
+				return Math.ceil(n / 2) + "d6 acid damage";
+			}),
+			action : ["action", ""],
+			eval : "AddWeapon('Alchemical Acid');",
+			removeeval : "RemoveWeapon('Alchemical Acid');",
+			calcChanges : {
+				atkAdd : ["if (WeaponName === 'alchemical acid' && classes.known.artificer && classes.known.artificer.level) {fields.Proficiency = true; fields.Damage_Die = function(n){return Math.ceil(n / 2) + 'd6';}(classes.known.artificer.level); }; ", ""]
+			}
+		},
+		"subclassfeature17" : {
+			name : "Formula: Alchemical Fire",
+			source : ["AA", 8],
+			minlevel : 17,
+			description : desc([
+				"As an action, I can hurl a vial of volatile liquid at a creature/object/surface within 30 ft",
+				"It explodes and all within a 5-ft radius must succeed on a Dex save or take fire damage"
+			]),
+			additional : levels.map(function (n) {
+				return Math.ceil(n / 3) + "d6 fire damage";
+			}),
+			action : ["action", ""],
+			eval : "AddWeapon('Alchemical Fire');",
+			removeeval : "RemoveWeapon('Alchemical Fire');",
+			calcChanges : {
+				atkAdd : ["if (WeaponName === 'alchemical fire' && classes.known.artificer && classes.known.artificer.level) {fields.Proficiency = true; fields.Damage_Die = function(n){return Math.ceil(n / 3) + 'd6';}(classes.known.artificer.level); }; ", ""]
+			}
+		}
+	}
+};
