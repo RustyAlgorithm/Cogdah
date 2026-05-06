@@ -119,3 +119,11 @@ Tokens can come from anything that gets a turn. be it enemies, Neutral Creatures
 ###### Turns
 
 When your token is pulled you can take your turn as per normal, action, bonus action and movement, but you take them as a detail at the same time, you can communicate within your detail without using any action but to communicate with different a detail uses an action and a reaction of the other detail to respond if they choose the degree of which is determined by the DM if a thumbs up counts as a response or not. other then this as stated you turn is as normal plays in a detail take their turn in any order they choose as normal as well you do not all have to move then act at the same time this allows a detail of 3 for example to have to members move up and while being covered by the third and then the third to move up while being covered by the first two. as long as they finish their turn within 10ft of the rest of the detail there is no need to create a separate token
+
+###### Example Encounter
+
+To help understand these rules we have created an example for the first round. the example will follow Gamma Section as they encounter enemy contact.
+
+Gamma Section is on patrol in the woods when they encounter some enemy soldiers.
+
+they enter the players enter the *planning phase* after a short deliberation they agree to split the section into 3 details. Detail A is a  
