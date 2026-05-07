@@ -312,7 +312,7 @@ Armor did not die when it was found that the gun was more effective than the swo
 
 #### Light Armor
 |Armor|Cost|AC|Strength|Stealth|Weight|
-|:---:|:--:|::|:------:|:-----:|:----:|
+|:---:|:--:|:-:|:------:|:-----:|:----:|
 |Greatcoat|10 gp|11 + Dex|---|Disadvantage|7 lb.|
 |Infiltrator suit|200 gp|11 + Dex|---|Advantage|5 lb.|
 |Soldier armor|25 gp|11 + Dex|---|---|12 lb.|
@@ -328,7 +328,7 @@ Armor did not die when it was found that the gun was more effective than the swo
 
 #### Heavy Armor
 |Armor|Cost|AC|Strength|Stealth|Weight|
-|:---:|:--:|::|:------:|:-----:|:----:|
+|:---:|:--:|:-:|:------:|:-----:|:----:|
 |Doron plate|60 gp|14|---|Disadvantage|45 lb.|
 |Lobster plate|120 gp|16|12|Disadvantage|60 lb.|
 |Ironman plate|450 gp|17|17|Disadvantage|97 lb.|
@@ -336,7 +336,7 @@ Armor did not die when it was found that the gun was more effective than the swo
 
 #### Shields
 |Armor|Cost|AC|Strength|Stealth|Weight|
-|:---:|:--:|::|:------:|:-----:|:----:|
+|:---:|:--:|:-:|:------:|:-----:|:----:|
 |Buckler|30 gp|+1|---|---|3 lb.|
 |Shield|75 gp|+2|---|---|6 lb.|
 |Sniper shield|150 gp|½ cover|---|---|25 lb.|
