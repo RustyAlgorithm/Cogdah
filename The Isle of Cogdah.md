@@ -110,7 +110,7 @@ In The Isle of Cogdah initiative is handled differently, before combat the party
 
 Tokens are added based on the number of *"details"* the section has. for example if the section stays together they have one token this would mean when the token is pulled the whole team can take their turn at the same time. is a section is broken into several details lets say a 4 player section is broken down into 3 sections 1 of 2 players and 2 of 1 player this would be 3 tokens to pick from. A detail is considered to be a independent creature more then 10ft. away from detail or section and can be created during combat, to create a detail during combat the creatures must simply move more then 10ft. away from their current detail and finish their turn. if single creature moves more then 10ft. away but finishes their turn with 10ft of the rest of the detail they do not have to be considered a separate detail. 
 <br>
-{{note
+{{descriptive
 *A detail can only be activated once per battle round, unless otherwise specified for example a player with the Officer Specialisation gains an ability to add a token to the bag this is always the last token for the team and can be used on anyone of the officers choosing, even if the officer is not the section leader.*
 }}
 
@@ -120,13 +120,15 @@ Tokens can come from anything that gets a turn. be it enemies, Neutral Creatures
 
 When your token is pulled you can take your turn as per normal, action, bonus action and movement, but you take them as a detail at the same time, you can communicate within your detail without using any action but to communicate with different a detail uses an action and a reaction of the other detail to respond if they choose the degree of which is determined by the DM if a thumbs up counts as a response or not. other then this as stated you turn is as normal plays in a detail take their turn in any order they choose as normal as well you do not all have to move then act at the same time this allows a detail of 3 for example to have to members move up and while being covered by the third and then the third to move up while being covered by the first two. as long as they finish their turn within 10ft of the rest of the detail there is no need to create a separate token
 
+{{descriptive
 ###### Example Encounter
 
 To help understand these rules we have created an example for the first round. the example will follow Gamma Section as they encounter enemy contact.
 
 Gamma Section is on patrol in the woods when they encounter some enemy soldiers.
 
-they enter the players enter the *planning phase* after a short deliberation they agree to split the section into 3 details. Detail A is a   
+they enter the players enter the *planning phase* after a short deliberation they agree to split the section into 3 details. Detail A is two man detail while detail B and C are both one man details this mean there are **3 tokens** in the bag for the player the enemy squad seems to be sticking together so they only get **1 token.**
+}}
 
 \page
 
@@ -134,7 +136,7 @@ they enter the players enter the *planning phase* after a short deliberation the
 
 ### Scatter Dice
 
-A Scatter Dice is a dice used in previous editions of warhammer you can purchase scatter dies online, however we have provided a table for how to roll one with a normal D6 *see below*. The scatter dice is used for Dexterity Save checks when avoiding grenades and for mortar and artillery shots as in Warhammer a D6 will be rolled along side these to determine how many feet the shot deviates following this formula *distance = roll x 5ft.* for example if a mortar rolls a 2, 3, 4 or 5 *(as per the table below)* on their scatter dice lets say a 2 they then roll another D6 lets say they get a 3 that means the center of their mortar shell will move 15ft up and to the left based on where north is on the map.
+A Scatter Dice is a dice used in previous editions of warhammer you can purchase scatter dies online, however we have provided a table for how to roll one with a normal D6 *see below*. The scatter dice is used for mortar and artillery shots as in Warhammer a D6 will be rolled along side these to determine how many feet the shot deviates following this formula *distance = roll x 5ft.* for example if a mortar rolls a 2, 3, 4 or 5 *(as per the table below)* on their scatter dice lets say a 2 they then roll another D6 lets say they get a 3 that means the center of their mortar shell will move 15ft up and to the left based on where north is on the map.
  
 {{column-count:2
 | Direction | Roll |
@@ -148,4 +150,52 @@ A Scatter Dice is a dice used in previous editions of warhammer you can purchase
 | Down and Left  | 4 |
 | Down and Right | 5 |
 | On Target      | 6 |
+}}
+
+### NPC Squadmates 
+
+There is an opportunity for there to be a need for more soldiers then there are players for this there is a stat block for *basic* soldiers in *appendix A*. functionally however they are extensions of the player in their detail or section. for example if a detail has 1 Player and 2 NPC troops the player controls those 2 npc troops.
+
+
+
+\page
+
+# Appendix A: NPC Troops
+
+{{monster,frame
+## Infantryman
+*Medium Humanoid, Neutral Good*
+___
+**Armor Class** :: 20 (chain mail, shield)
+**Hit Points**  :: 90 (1d4 + 5)
+**Speed**       :: 9 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|7 (-1)|17 (+4)|10 (+0)|8 (-1)|5 (-2)|15 (+3)|
+___
+**Condition Immunities** :: None
+**Senses**               :: darkvision 60 ft., passive Perception 12
+**Languages**            :: None
+**Challenge**            :: 9 (4419 XP) {{bonus **Proficiency Bonus** +5}}
+___
+***Sassiness.*** When questioned, this creature will talk back instead of answering.
+:
+***Sassiness.*** When questioned, this creature will talk back instead of answering.
+:
+***Big Jerk.*** Whenever this creature makes an attack, it starts telling you how much cooler it is than you.
+:
+***Big Jerk.*** Whenever this creature makes an attack, it starts telling you how much cooler it is than you.
+:
+***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied.
+
+When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
+### Actions
+***Team Foot.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+:
+***Open Chin Choke.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+:
+***Turnbuckle Roll.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+:
+***Crossface Suplex.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
 }}
