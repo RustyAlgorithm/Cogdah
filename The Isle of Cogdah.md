@@ -126,4 +126,26 @@ To help understand these rules we have created an example for the first round. t
 
 Gamma Section is on patrol in the woods when they encounter some enemy soldiers.
 
-they enter the players enter the *planning phase* after a short deliberation they agree to split the section into 3 details. Detail A is a  
+they enter the players enter the *planning phase* after a short deliberation they agree to split the section into 3 details. Detail A is a   
+
+\page
+
+# Other Rule Additions
+
+### Scatter Dice
+
+A Scatter Dice is a dice used in previous editions of warhammer you can purchase scatter dies online, however we have provided a table for how to roll one with a normal D6 *see below*. The scatter dice is used for Dexterity Save checks when avoiding grenades and for mortar and artillery shots as in Warhammer a D6 will be rolled along side these to determine how many feet the shot deviates following this formula *distance = roll x 5ft.* for example if a mortar rolls a 2, 3, 4 or 5 *(as per the table below)* on their scatter dice lets say a 2 they then roll another D6 lets say they get a 3 that means the center of their mortar shell will move 15ft up and to the left based on where north is on the map.
+ 
+{{column-count:2
+| Direction | Roll |
+|:------------:|:-:|
+| On Target    | 1 |
+| Up and left  | 2 |
+| Up and Right | 3 |
+
+|  Direction  | Roll |
+|:--------------:|:-:|
+| Down and Left  | 4 |
+| Down and Right | 5 |
+| On Target      | 6 |
+}}

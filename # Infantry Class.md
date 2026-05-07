@@ -90,7 +90,7 @@ once per long rest you can add an activation die to the bag.
 
 **ordinance** ~mortars, rocket launchers and man portable AV~
 
-**Marksman** ~Sniping and camouflage~
+**Marksman** ~Sniping and camouflage~ At 3rd level you gain proficiency in Breech Rifles and Sniper Rifles
 
 **Camo Cloak** At level 6 camo cloak
 
