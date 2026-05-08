@@ -82,25 +82,25 @@ once per long rest you can add an activation die to the bag.
 
 **Sappers Tools** At 3rd level you gain proficiency in *tinkers tools* you can use your bonus action to disarm an explosive, disable an emplacement or weaken defensive structures. you can use an action instead to reset the trigger of an explosive making it save to carry. 
 
-**Gunner** ~Machine Guns, Machine Guns while moving~ 
+**Gunner** *Machine Guns, Machine Guns while moving* 
 
 **Heavy Weapon Drills** At X level you can move and fire without getting disadvantage to shoot.
 
 **Suppressive Fire.** At 3rd level you can use the Suppressive Fire action. Using a Suppressive Fire action you make a normal single-target attack on a point you can see within normal range of a weapon you are proficient with. All creatures in within a 15 foot sphere must succeed on a Dexterity saving throw or take the weapon's normal damage. and be restrained. The DC is 8 + your attack hit bonus. This action uses ten pieces of ammunition.
 
-**ordinance** ~mortars, rocket launchers and man portable AV~
+**ordinance** *mortars, rocket launchers and man portable AV*
 
-**Marksman** ~Sniping and camouflage~ At 3rd level you gain proficiency in Breech Rifles and Sniper Rifles
+**Marksman** *Sniping and camouflage* At 3rd level you gain proficiency in Breech Rifles and Sniper Rifles
 
-**Camo Cloak** At level 6 camo cloak
+**Camo Cloak** At level 6 you learn to make a cloak that makes you able to blend in to your surroundings better. you gain advantage in nature checks when making one and wearing it gives advantage one stealth checks.
 
-**Pathfinder** ~Stealth short range/melee~ 
+**Pathfinder** *Stealth short range/melee* At 3rd level you gain proficiency in Pistols and *simple Melee Weapons*
 
 **Stealth manoeuvres** duck run and combat crawl give advantage on stealth checks and remaining hidden
 
-**Camo Cloak** At level 6 camo cloak
+**Camo Cloak** At level 6 you learn to make a cloak that makes you able to blend in to your surroundings better. you gain advantage in nature checks when making one and wearing it gives advantage one stealth checks.
 
-**Battle Scribe** ~Magic~ Wisdom
+**Battle Scribe** *Magic* Wisdom
 
 #### Spellcasting Ability
 {{text-align:center
@@ -109,7 +109,7 @@ once per long rest you can add an activation die to the bag.
 **Spell attack modifier**:: = your proficiency bonus + your Wisdom modifier
 }}
 
-**Medic scribe** ~Magic Heals~ intelligence
+**Medic scribe** *Magic Heals* intelligence
 
 #### Spellcasting Ability
 {{text-align:center
@@ -118,7 +118,7 @@ once per long rest you can add an activation die to the bag.
 **Spell attack modifier**:: = your proficiency bonus + your intelligence modifier
 }}
 
-**Padre** ~Religion~ Charisma
+**Padre** *Religion* Charisma
 
 #### Spellcasting Ability
 {{text-align:center

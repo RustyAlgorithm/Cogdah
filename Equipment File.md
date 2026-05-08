@@ -106,16 +106,17 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 <div class='wide'>
 
 ### Simple Melee
-|     Name      | Cost |     Damage      | Weight|           Properties           |
-|:-------------:|:----:|:---------------:|:-----:|:------------------------------:|
-|Fighting iron  | 3 sp | 1d6 bludgeoning | 2 lb. | ---                            | 
-| Hatchet       | 5 gp | 1d6 slashing    | 2 lb. | Light, thrown (20/60)          |
-| Mace          | 5 gp | 1d6 bludgeoning | 4 lb. | ---                            |
-| Mallet        | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (20/60)          |
-| Trench club   | 3 sp | 1d4 bludgeoning | 2 lb. | Light                          |
-| Trench knife  | 2 gp | 1d4 piercing    | 1 lb. | Finesse, light, thrown (20/60) | 
-| Trench shovel | 1 gp | 1d4 slashing    | 2 lb. | Light                          | 
-| War club      | 2 sp | 1d8 bludgeoning | 10 lb.| Two-handed                     |
+|      Name      | Cost |     Damage      | Weight|           Properties           |
+|:--------------:|:----:|:---------------:|:-----:|:------------------------------:|
+|Fighting iron   | 3 sp | 1d6 bludgeoning | 2 lb. | ---                            | 
+| Hatchet        | 5 gp | 1d6 slashing    | 2 lb. | Light, thrown (20/60)          |
+| Mace           | 5 gp | 1d6 bludgeoning | 4 lb. | ---                            |
+| Mallet         | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (20/60)          |
+| Trench club    | 3 sp | 1d4 bludgeoning | 2 lb. | Light                          |
+| Trench knife   | 2 gp | 1d4 piercing    | 1 lb. | Finesse, light, thrown (20/60) | 
+| Trench shovel  | 1 gp | 1d4 slashing    | 2 lb. | Light                          | 
+| Fighting knife | 25gp | 1d8 piercing    | 1 lb. | Finesse, light, thrown (20/60) |
+| War club       | 2 sp | 1d8 bludgeoning | 10 lb.| Two-handed                     |
 
 ### Melee, Martial
 |      Name      | Cost  |    Damage     | Weight |        Properties        |
@@ -132,7 +133,7 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 <div class='pageNumber auto'></div>
 <div class='wide'>
 
-### Simple Ranged
+### Thrown Ranged
 |         Name          |  Cost  |     Damage    | Weight |                     Properties                           |
 |:---------------------:|:------:|:-------------:|:------:|:--------------------------------------------------------:|
 |Assault grenade        | 150 gp | 4d6 thunder   | 3 lb.  | Special (see desc.)                                      |
@@ -140,6 +141,14 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 |Anti-Tank Grenade      | 200 gp | 8d6 Piercing  | 4 Ib.  | Special (see desc.)                                      | 
 |Gas grenade            | 250 gp |3d6 acid       | 2 lb.  | Special (see desc.)                                      |
 |Throwing knife         | 5 cp   | 1d4 piercing  | 2 lb.  | Finesse, Thrown (20/60)                                  |
+
+### Ranged, Pistols
+|         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
+|:---------------------:|:------:|:-----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------:|
+| Double pistol         | 90 gp  | 2d4 piercing                  | 3 lb.  | Pistol rounds (30/120, reload 14), light, special                                                     |
+| Sunburst pistol       | 600 gp | 2d6 fire                      | 2 lb.  | Pistol rounds (25/100, reload 6), light                                                               |
+| Shot-pistol           | 110 gp | 2d6 piercing                  | 3 lb.  | Shotgun shells (15/60, reload 4), spread                                                              |
+| Revolver              | 60 gp  | 1d6 piercing                  | 2 lb.  | Pistol rounds (30/120, reload 6), light                                                               |
 
 ### Ranged, Martial
 |         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
