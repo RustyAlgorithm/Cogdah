@@ -110,11 +110,8 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 |:-------------:|:----:|:---------------:|:-----:|:------------------------------:|
 |Fighting iron  | 3 sp | 1d6 bludgeoning | 2 lb. | ---                            | 
 | Hatchet       | 5 gp | 1d6 slashing    | 2 lb. | Light, thrown (20/60)          |
-| Javelin       | 5 sp | 1d6 piercing    | 2 lb. | Thrown (30/120)                |
 | Mace          | 5 gp | 1d6 bludgeoning | 4 lb. | ---                            |
 | Mallet        | 2 gp | 1d4 bludgeoning | 2 lb. | Light, thrown (20/60)          |
-| Quarterstaff  | 2 sp | 1d6 bludgeoning | 4 lb. | Versatile (1d8)                |
-| Shortspear    | 3 gp | 1d6 piercing    | 3 lb. | Thrown (20/60), versatile (1d8)|
 | Trench club   | 3 sp | 1d4 bludgeoning | 2 lb. | Light                          |
 | Trench knife  | 2 gp | 1d4 piercing    | 1 lb. | Finesse, light, thrown (20/60) | 
 | Trench shovel | 1 gp | 1d4 slashing    | 2 lb. | Light                          | 
@@ -123,13 +120,7 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 ### Melee, Martial
 |      Name      | Cost  |    Damage     | Weight |        Properties        |
 |:--------------:|:-----:|:-------------:|:------:|:------------------------:|
-| Battleaxe      | 15 gp | 1d8 slashing  | 4 lb.  | Versatile (1d10)         |
-| Glaive         | 20 gp | 1d10 slashing | 6 lb.  | Heavy, reach, two-handed |
-| Greataxe       | 40 gp | 1d12 slashing | 7 lb.  | Heavy, two-handed        |
-| Greatsword     | 80 gp | 2d6 slashing  | 6 lb.  | Heavy, two-handed        |
 | Halberd        | 25 gp | 1d10 slashing | 6 lb.  | Heavy, reach, two-handed |
-| Lance          | 10 gp | 1d12 piercing | 6 lb.  | Reach, special           |
-| Longspear      | 10 gp | 1d10 piercing | 18 lb. | Heavy, reach, two-handed |
 | Longsword      | 25 gp | 1d8 slashing  | 3 lb.  | Versatile (1d10)         |
 | Rapier         | 25 gp | 1d8 piercing  | 2 lb.  | Finesse                  |
 | Sabre          | 20 gp | 1d6 slashing  | 3 lb.  | Finesse, light           |
@@ -144,25 +135,22 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 ### Simple Ranged
 |         Name          |  Cost  |     Damage    | Weight |                     Properties                           |
 |:---------------------:|:------:|:-------------:|:------:|:--------------------------------------------------------:|
-|Ballista               | 75 gp  | 1d10 piercing | 25 lb. | Bolts (100/400), emplacement, heavy, loading, two-handed |
-|Crossbow, light        | 25 gp  | 1d8 piercing  | 2 lb.  | Bolts (80/320)                                           | 
 |Assault grenade        | 150 gp | 4d6 thunder   | 3 lb.  | Special (see desc.)                                      |
 |Fragmentation grenade  | 125 gp | 5d6 piercing  | 2 lb.  | Special (see desc.)                                      | 
 |Anti-Tank Grenade      | 200 gp | 8d6 Piercing  | 4 Ib.  | Special (see desc.)                                      | 
 |Gas grenade            | 250 gp |3d6 acid       | 2 lb.  | Special (see desc.)                                      |
-|Peasant bow            | 20 gp  | 1d6 piercing  | 2 lb.  | Arrows (80/320), two-handed                              |
 |Throwing knife         | 5 cp   | 1d4 piercing  | 2 lb.  | Finesse, Thrown (20/60)                                  |
 
 ### Ranged, Martial
 |         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
 |:---------------------:|:------:|:-----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------:|
-| Infantry rifle        | 80 gp  | 1d8 piercing                  | 9 lb.  | Rifle rounds (120/480, loading 6), two-handed                                                         |
+| Infantry rifle        | 80 gp  | 1d8 piercing                  | 9 lb.  | Rifle rounds (120/480, reload 10), two-handed                                                         |
 | Carbine               | 95 gp  | 1d8 piercing                  | 7 lb.  | Rifle rounds (100/400, reload 5), light                                                               |
-| Shot-rifle            | 110 gp | 1d8 piercing  / 2d6 piercing  | 12 lb. | Rifle rounds (100/400, loading 4), underbarrel(shotgun shells (20/80, loading 1), spread), two-handed |
-| Cavalry rifle         | 145 gp | 1d10 piercing                 | 8 lb.  | Rifle rounds (80/320, loading 5), two-handed                                                          |
-| Breech rifle          | 125 gp | 2d8 piercing                  | 9 lb.  | High-power rounds (150/600, loading 1), two-handed                                                    |
-| Automatic rifle       | 175 gp | 1d10 piercing                 | 16 lb. | Rifle rounds (120/480, reload 20), full auto, heavy, two-handed                                       |
-| Sniper rifle          | 220 gp | 2d8 piercing                  | 10 lb. | High-power rounds (250/1000, reload 5), scope, heavy, two-handed                                      |
+| Shot-rifle            | 110 gp | 1d8 piercing  / 2d6 piercing  | 12 lb. | Rifle rounds (100/400, reload 2), underbarrel(shotgun shells (20/80, loading 1), spread), two-handed |
+| Cavalry rifle         | 145 gp | 1d8 piercing                  | 8 lb.  | Rifle rounds (80/320, reload 5), two-handed                                                          |
+| Breech rifle          | 125 gp | 2d10 piercing                 | 9 lb.  | High-power rounds (150/600, loading 1), two-handed                                                    |
+| Automatic rifle       | 175 gp | 3d6 piercing                  | 16 lb. | Rifle rounds (120/480, reload 20), full auto, heavy, two-handed                                       |
+| Sniper rifle          | 220 gp | 2d10 piercing                 | 10 lb. | High-power rounds (250/1000, reload 5), scope, heavy, two-handed                                      |
 | Double pistol         | 90 gp  | 2d4 piercing                  | 3 lb.  | Pistol rounds (30/120, reload 14), light, special                                                     |
 | Sunburst pistol       | 600 gp | 2d6 fire                      | 2 lb.  | Pistol rounds (25/100, reload 6), light                                                               |
 | Shot-pistol           | 110 gp | 2d6 piercing                  | 3 lb.  | Shotgun shells (15/60, reload 4), spread                                                              |
@@ -171,12 +159,10 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 | Drum gun              | 265 gp | 1d6 piercing                  | 16 lb. | Pistol rounds (25/100, reload 60), full auto, heavy, two-handed                                       |
 | Combat shotgun        | 120 gp | 2d6 piercing                  | 8 lb.  | Shotgun shells (20/80, reload 5), spread, two-handed                                                  |
 | Double shotgun        | 40 gp  | 2d6 piercing                  | 10 lb. | Shotgun shells (30/120, reload 2), special, spread, two-handed                                        |
-| Light machine gun     | 210 gp | 2d6 piercing                  | 28 lb. | Rifle rounds (80/320, reload 50), full auto, heavy, two-handed                                        |
-| Heavy machine gun     | 300 gp | 3d8 piercing                  | 90 lb. | High-power rounds (120/480, reload 40), emplacement, full auto, heavy, two-handed                     |
+| Light machine gun     | 210 gp | 3d8 piercing                  | 28 lb. | Rifle rounds (80/320, reload 50), full auto, heavy, two-handed                                        |
+| Heavy machine gun     | 300 gp | 6d10 piercing                 | 90 lb. | High-power rounds (120/480, reload 40), emplacement, full auto, heavy, two-handed                     |
 | Golemhunter rifle     | 750 gp | 4d8 piercing                  | 40 lb. | Antigolem rounds,(200/800, loading 1), emplacement, heavy, penetrating, scope, two-handed             |
 | Rocket gun            | 200 gp | 3d8 fire                      | 90 lb. | Antigolem rounds, (150/600, loading 1), emplacement, heavy, two-handed                                |
-| Crossbow, hand        | 60 gp  | 1d6 piercing                  | 3 lb.  | Bolts (30/120, loading 1), light                                                                      |
-| Longbow               | 30 gp  | 1d8 piercing                  | 2 lb.  | Arrows (150/600, heavy, two-handed                                                                    |
 
 </div>              
 \page
@@ -191,15 +177,9 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 
 * ***Hatchet.*** Hatchets were normally used for chopping barbed wire posts down on advances. They are essential tools in any army engineer's kit, along with wire cutters. In a pinch, it is indisposable for close-ranged combat, and is a reliable ad-hoc weapon.
 
-* ***Javelin.*** In more traditional regiments, a javelin throw before a trench rush is still common, and can be effective in softening up and disorienting the enemy.
-
 * ***Mace.*** Maces in the trenches were often made from the steel hulls of dud grenades, tin cans filled with concrete, or any number of heavy, solid objects. Veteran soldiers made them often for protecting themselves.
 
 * ***Mallet.*** The mallet is another improvised weapon. It is simply a hammer with a heavy steel end on it, used for pounding tent poles or barbed wire.
-
-* ***Quarterstaff.*** A heavy piece of wood never did anyone wrong. Sometimes this was the simplest weapon available. When too close for guns or words, the most violent instinct of humanity surfaced.
-
-* ***Shortspear.*** To stave off cavalry charges, some unlucky lads are tasked with being spearmen. That consists of standing on open ground with spears pointed forward as shotgun-wielding horsemen ride them down. Needless to say, not many of them live to see their pension.
 
 * ***Trench club.*** When the elegance of a mace fails, sometimes a hewn log gets the message across.
 
@@ -209,21 +189,9 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 
 * ***War club.*** Little more than a vicious bludgeon, this could easily knock a man out if dropped on his head. Imagine what it could do when swung.
 
-* ***Battleaxe.*** The medieval weapons of the previous era were no less important in close combat. Even with an infantry helmet, a sharp blade could cleave through a man's head.
-
-* ***Glaive.*** A glaive is much like a longspear, although its longer blade allows for more sword-like parries and ripostes from a safe distance.
-
-* ***Greataxe.*** A mighty double-bit axe to the neck would end any man, no matter the rank.
-
-* ***Greatsword.*** Family heirlooms were brought to the war. Men saw it as an opportunity to prove themselves to veterans of bygone eras, and so the clan claymore was often trudged into battle.
-
 * ***Halberd.*** To discourage infantry charges, some men grab halberds from below the parapet, ready to hack any man who crests the line to pieces.
 
 * ***Lance.*** Cavalry-on-cavalry charges were not uncommon. When pistols and rifles failed, the old standard is never far away. Lances slam into enemy armor and knock horsemen from their steeds. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted.
-
-* ***Longspear.*** The longspear isn't used much differently than a shortspear. Its only real advantage is slightly more space between one and one's opponent.
-
-* ***Longsword.*** Knights still clash on the field of battle, and many of them carry their ancestral swords. To fight in the old way as machines march and bombs explode around you is brave.
 
 * ***Rapier.*** Officers are often equipped with basket-hilt rapiers, not only for status but for leading the charge. The idea of concealing one's commanders was not standard quite yet.
 
@@ -236,10 +204,6 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 <div class='pageNumber auto'></div>
 ### Ranged Weapon Descriptions
 
-* ***Ballista.*** These heavy crossbows are usually mounted on the parapet, or on the backs of beasts of burden. They have enough power to spear a man. They are slow to load, but could be used by almost anyone.
-
-* ***Crossbow, light.*** Traditional regiments often utilize crossbows, as do nighttime raiders for the ease of killing sentries. It is simple to train with, and even simpler to care for.
-
 * ***Assault grenade.*** This bomb is assembled from a wooden haft with a casing on one end. A string is pulled, which activates its timer. Choose a point within 60 feet. Anyone within a 20 foot radius sphere centered on that point must succeed a DC13 Dexterity saving throw or take 4d6 thunder damage, or half as much on a success.
 
 * ***Fragmentation grenade.*** This fist-sized bomb is hurled, and then explodes a few moments later. Choose a point within 60 feet. Anyone within a 20 foot radius sphere centered on that point must succeed a DC14 Dexterity saving throw or take 5d6 piercing damage, or half as much on a success.
@@ -247,8 +211,6 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 * ***Anti-Tank Grenade*** This plate sized Bomb, is thrown and then detonates moments later, Choose a point within 45 foot, anything in a 30 foot tall cylinder centered on the bomb with a 5 foot radius must make a DC13 Dexterity Saving Throw or suffer 8d6 Piercing damage, or on a success be set prone 5 ft. outside of the area.
 
 * ***Gas grenade.*** This grenade is filled with a pair of chemicals that, when mixed, create lethal fumes. Bombs like these necessitated the use of gas masks. Choose a point within 60 feet. A spherical cloud of toxic gas 20 feet in radius originates on that point, heavily obscuring the area. It lasts for 1 minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. Anyone ending their turn within the gas must succeed a DC15 Constitution saving throw or take 3d6 acid damage, taking half as much on a save. If a creature in the cloud is wearing a gas mask, the damage to it is halved. 
-
-* ***Peasant bow.*** As the real weapons flooded toward the battlefield, the civilians were left to fend for themselves.  The peasant bow is a self-bow made from yew or ash. It is not very powerful and is mostly used for killing game.
 
 * ***Infantry rifle.*** A tube-feeding bolt-action rifle. Every soldier is trained with one of these.
 
@@ -289,17 +251,12 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 
 * ***Rocket gun.*** The rocket gun does not actually fire rockets, but powerful warheads utilizing explosive cartridges. They are more feared than gas attacks, because they can blow up and expose entire areas of a trench line.
 
-* ***Crossbow, hand.*** A simple and effective tool harkening back to the old days. Tips are often poisoned to make up for the meager penetrating power.
-
-* ***Longbow.*** Soldiers behind enemy lines have often found bows useful for infiltration. They are near silent and create no muzzle flash, and pack a considerable punch.
 ## Ammunition
 
 There is a wide veritiy of ammo types however onle certain ammo type fit in certain weapons.
 ### Ammunition
 | Name| Cost (per 20)| Weight (per 20) |
 |:----:|:-------------:|:------------:|
-|Arrows|5 gp|1 lb.|
-|Bolts|5 gp|1½ lb.|
 |Antigolem rounds|400 gp|20 lb.|
 |High-power rounds|120 gp|1 lb.|
 |Pistol rounds|15 gp|¼ lb.|
@@ -324,20 +281,17 @@ Armor did not die when it was found that the gun was more effective than the swo
 |Assault coat|60 gp|13 + max 2 Dex|---|Disadvantage|18 lb.|
 |Brigandine|95 gp|14 + max 2 Dex|---|Disadvantage|22 lb.|
 |Breastplate|400 gp|14 + max 2 Dex|---|---|18 lb.|
-|Lamellar|650 gp|15 + max 2 Dex|---|Disadvantage|32 lb.|
 
 #### Heavy Armor
 |Armor|Cost|AC|Strength|Stealth|Weight|
 |:---:|:--:|:-:|:------:|:-----:|:----:|
 |Doron plate|60 gp|14|---|Disadvantage|45 lb.|
 |Lobster plate|120 gp|16|12|Disadvantage|60 lb.|
-|Ironman plate|450 gp|17|17|Disadvantage|97 lb.|
 |Knight plate|1,800 gp|18|16|Disadvantage|75 lb.|
 
 #### Shields
 |Armor|Cost|AC|Strength|Stealth|Weight|
 |:---:|:--:|:-:|:------:|:-----:|:----:|
-|Buckler|30 gp|+1|---|---|3 lb.|
 |Shield|75 gp|+2|---|---|6 lb.|
 |Sniper shield|150 gp|½ cover|---|---|25 lb.|
 |Roller shield|375 gp|½ cover|---|---|70 lb.|
@@ -352,27 +306,17 @@ Armor did not die when it was found that the gun was more effective than the swo
 
 * ***Officer armor.*** The more important are afforded better armor. This armor is usually designed similar to lamellar. To see a lieutenant leading a charge in gleaming steel is something to remember forever.
 
-
 * ***Assault coat.*** Grenadiers and stormtroopers, armed with literal bags full of grenades, often come under heavy fire. The assault coat is an even heavier greatcoat, resembling a rudimentary coat of plates with riveted and hinged sheets of steel.
 
-* ***Brigandine.*** In the old days, the brigandine was the most common armor for an average soldier. It is heavy, but is specially made to shrug off lighter blows and help lessen the damage of heavier ones. They are highly coveted by the average soldier today. Those of noble heritage often paint their family crest on the chestpiece.
 \page
 <div class='pageNumber auto'></div>
 * ***Breastplate.*** Instead of a series of heavier plates, a breastplate is made of a single sheet of steel. This construction makes it lighter because of a lack of rivets, but to build a continuous piece of metal to fit a man is beyond most smiths' abilities.
-
-* ***Lamellar.*** Men who dress as the samurai of old often find themselves in a heavy chestpiece and helmet. It is lightly armored on the legs and arms to provide the wearer dexterity, but its many scales on the chest and back can defeat most sword strikes by less skilled opponents.
-
 
 * ***Doron plate.*** Doron is the name given to a relatively lightweight system of metal-like plates, worn like a coat on the front and back. It is usually worn by artillerymen to give them some protection against the threat of artillery shells cooking off, however rare that may be.
 
 * ***Lobster plate.*** Designed in large arthropod-like scales from the chest down to the groin, this armor is usually only doled out for massive offensives. It is not very expensive and protects the front and back of the torso.
 
-* ***Ironman plate.*** This armor harkens back to the crusaders of old, complete with a bucket helmet with a thin slit across the eyes. At almost one hundred pounds, it can only be worn by the strongest soldiers. Bullets simply dent the metal at a hundred yards.
-
 * ***Knight plate.*** Cavalrymen only esteem themselves as the highest. Their entire kit costs thousands of gold at the very least, between courser, armor, and a myriad of weapons. The plate armor of a medieval knight completes the look, but its added thickness from its historical counterpart helps it shrug off low-caliber rounds.
-
-
-* ***Buckler.*** A small shield not much bigger than a dinner plate. Previously used in combination with a longsword to perform wards and sieges, it most often finds itself paired with a revolver now. 
 
 * ***Shield.*** A shield the size of a man's torso. These come in many configurations and styles.
 

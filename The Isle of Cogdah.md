@@ -164,15 +164,15 @@ There is an opportunity for there to be a need for more soldiers then there are 
 
 {{monster,frame
 ## Infantryman
-*Medium Humanoid, Neutral Good*
+*Medium Humanoid, Neutral "Good"*
 ___
 **Armor Class** :: 16 (Assault Coat)
-**Hit Points**  :: 45 (1d4 + 5)
+**Hit Points**  :: 25 (1d4 + 5)
 **Speed**       :: 30 ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|7 (-1)|12 (+2)|10 (+0)|8 (-1)|5 (-2)|15 (+3)|
+| 7 (-1)|12 (+2)|10 (+0)| 8 (-1)| 5 (-2)|15 (+3)|
 ___
 **Condition Immunities** :: None
 **Senses**               :: 
@@ -183,6 +183,35 @@ ___
 :
 **Duck Run** At 6th level once per turn at the end of your next 15ft. or more movement if you remain stationary, after until the end of your turn you gain +2 to your AC until you are either hit by an attack or the start of your next turn whichever is first.
 
+
+### Actions
+***Infantry Rifle*** *Ranged Weapon Attack:* +5 to hit, range 120/480, one target. *Hit:* 6 (1d8 + 2), loading 6
+:
+***Trench club .*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4 - 1) 
+:
+}}
+
+{{monster,frame
+## Machine Gunner
+*Medium Humanoid, Neutral "Good"*
+___
+**Armor Class** :: 16 (Assault Coat)
+**Hit Points**  :: 25 (1d4 + 5)
+**Speed**       :: 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 10 (0)|12 (+2)|10 (+0)| 9 (-1)| 9 (-1)|10 (0)|
+___
+**Condition Immunities** :: None
+**Senses**               :: 
+**Languages**            :: None
+
+___
+**Hit the Deck** At 3rd level once per short rest as a reaction *if you are surprised* you can go prone without using any movement
+:
+**Duck Run** At 6th level once per turn at the end of your next 15ft. or more movement if you remain stationary, after until the end of your turn you gain +2 to your AC until you are either hit by an attack or the start of your next turn whichever is first.
+:
 
 ### Actions
 ***Infantry Rifle*** *Ranged Weapon Attack:* +5 to hit, range 120/480, one target. *Hit:* 6 (1d8 + 2), loading 6
