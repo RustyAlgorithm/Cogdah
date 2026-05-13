@@ -88,7 +88,7 @@ once per long rest you can add an activation die to the bag.
 
 **Suppressive Fire.** At 3rd level you can use the Suppressive Fire action. Using a Suppressive Fire action you make a normal single-target attack on a point you can see within normal range of a weapon you are proficient with. All creatures in within a 15 foot sphere must succeed on a Dexterity saving throw or take the weapon's normal damage. and be restrained. The DC is 8 + your attack hit bonus. This action uses ten pieces of ammunition.
 
-**ordinance** *mortars, rocket launchers and man portable AV*
+**ordinance** *mortars, rocket launchers and man portable AV* <br> At 3rd level you can proficiency *Ranged, Heavy Weapons* 
 
 **Marksman** *Sniping and camouflage* At 3rd level you gain proficiency in Breech Rifles and Sniper Rifles
 

@@ -150,28 +150,37 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 | Shot-pistol           | 110 gp | 2d6 piercing                  | 3 lb.  | Shotgun shells (15/60, reload 4), spread                                                              |
 | Revolver              | 60 gp  | 1d6 piercing                  | 2 lb.  | Pistol rounds (30/120, reload 6), light                                                               |
 
-### Ranged, Martial
+### Ranged, Sub-Machine Guns
+|         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
+|:---------------------:|:------:|:-----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------:|
+| Submachine gun        | 180 gp | 1d6 piercing                  | 10 lb. | Pistol rounds (30/120, reload 30), full auto, two-handed                                              |
+| Drum gun              | 265 gp | 1d6 piercing                  | 16 lb. | Pistol rounds (25/100, reload 60), full auto, heavy, two-handed                                       |
+
+### Ranged, Shotguns
+|         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
+|:---------------------:|:------:|:-----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------:|
+| Combat shotgun        | 120 gp | 2d6 piercing                  | 8 lb.  | Shotgun shells (20/80, reload 5), spread, two-handed                                                  |
+| Double shotgun        | 40 gp  | 2d6 piercing                  | 10 lb. | Shotgun shells (30/120, reload 2), special, spread, two-handed                                        |
+
+### Ranged, Rifles
 |         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
 |:---------------------:|:------:|:-----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------:|
 | Infantry rifle        | 80 gp  | 1d8 piercing                  | 9 lb.  | Rifle rounds (120/480, reload 10), two-handed                                                         |
 | Carbine               | 95 gp  | 1d8 piercing                  | 7 lb.  | Rifle rounds (100/400, reload 5), light                                                               |
-| Shot-rifle            | 110 gp | 1d8 piercing  / 2d6 piercing  | 12 lb. | Rifle rounds (100/400, reload 2), underbarrel(shotgun shells (20/80, loading 1), spread), two-handed |
-| Cavalry rifle         | 145 gp | 1d8 piercing                  | 8 lb.  | Rifle rounds (80/320, reload 5), two-handed                                                          |
+| Shot-rifle            | 110 gp | 1d8 piercing  / 2d6 piercing  | 12 lb. | Rifle rounds (100/400, reload 2), underbarrel(shotgun shells (20/80, loading 1), spread), two-handed  |
+| Cavalry rifle         | 145 gp | 1d8 piercing                  | 8 lb.  | Rifle rounds (80/320, reload 5), two-handed                                                           |
 | Breech rifle          | 125 gp | 2d10 piercing                 | 9 lb.  | High-power rounds (150/600, loading 1), two-handed                                                    |
 | Automatic rifle       | 175 gp | 3d6 piercing                  | 16 lb. | Rifle rounds (120/480, reload 20), full auto, heavy, two-handed                                       |
-| Sniper rifle          | 220 gp | 2d10 piercing                 | 10 lb. | High-power rounds (250/1000, reload 5), scope, heavy, two-handed                                      |
-| Double pistol         | 90 gp  | 2d4 piercing                  | 3 lb.  | Pistol rounds (30/120, reload 14), light, special                                                     |
-| Sunburst pistol       | 600 gp | 2d6 fire                      | 2 lb.  | Pistol rounds (25/100, reload 6), light                                                               |
-| Shot-pistol           | 110 gp | 2d6 piercing                  | 3 lb.  | Shotgun shells (15/60, reload 4), spread                                                              |
-| Revolver              | 60 gp  | 1d6 piercing                  | 2 lb.  | Pistol rounds (30/120, reload 6), light                                                               |
-| Submachine gun        | 180 gp | 1d6 piercing                  | 10 lb. | Pistol rounds (30/120, reload 30), full auto, two-handed                                              |
-| Drum gun              | 265 gp | 1d6 piercing                  | 16 lb. | Pistol rounds (25/100, reload 60), full auto, heavy, two-handed                                       |
-| Combat shotgun        | 120 gp | 2d6 piercing                  | 8 lb.  | Shotgun shells (20/80, reload 5), spread, two-handed                                                  |
-| Double shotgun        | 40 gp  | 2d6 piercing                  | 10 lb. | Shotgun shells (30/120, reload 2), special, spread, two-handed                                        |
+| Sniper rifle          | 220 gp | 2d10 piercing                 | 10 lb. | High-power rounds (250/1000, reload 5), scope, heavy two-handed                                      |
+
+### Ranged, Heavy Weapons
+|         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
+|:---------------------:|:------:|:-----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------:|
 | Light machine gun     | 210 gp | 3d8 piercing                  | 28 lb. | Rifle rounds (80/320, reload 50), full auto, heavy, two-handed                                        |
 | Heavy machine gun     | 300 gp | 6d10 piercing                 | 90 lb. | High-power rounds (120/480, reload 40), emplacement, full auto, heavy, two-handed                     |
 | Golemhunter rifle     | 750 gp | 4d8 piercing                  | 40 lb. | Antigolem rounds,(200/800, loading 1), emplacement, heavy, penetrating, scope, two-handed             |
 | Rocket gun            | 200 gp | 3d8 fire                      | 90 lb. | Antigolem rounds, (150/600, loading 1), emplacement, heavy, two-handed                                |
+| Hand Mortar           | 150 gp | 6d8 fire                      | 25 lb. | Mortar Rounds, (200/800, loading 1), emplacement                                                      |
 
 </div>              
 \page
