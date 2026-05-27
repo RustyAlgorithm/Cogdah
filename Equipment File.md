@@ -177,10 +177,11 @@ The weapons here are intended as a replacement for 5e's default weapon set, but 
 |         Name          |  Cost  | Damage                        | Weight | Properties                                                                                            |
 |:---------------------:|:------:|:-----------------------------:|:------:|:-----------------------------------------------------------------------------------------------------:|
 | Light machine gun     | 210 gp | 3d8 piercing                  | 28 lb. | Rifle rounds (80/320, reload 50), full auto, heavy, two-handed                                        |
-| Heavy machine gun     | 300 gp | 6d10 piercing                 | 90 lb. | High-power rounds (120/480, reload 40), emplacement, full auto, heavy, two-handed                     |
+| Heavy machine gun     | 300 gp | 6d10 piercing                 | 90 lb. | High-power rounds (120/480, reload 80), emplacement, full auto, heavy, two-handed                     |
 | Golemhunter rifle     | 750 gp | 4d8 piercing                  | 40 lb. | Antigolem rounds,(200/800, loading 1), emplacement, heavy, penetrating, scope, two-handed             |
 | Rocket gun            | 200 gp | 3d8 fire                      | 90 lb. | Antigolem rounds, (150/600, loading 1), emplacement, heavy, two-handed                                |
-| Hand Mortar           | 150 gp | 6d8 fire                      | 25 lb. | Mortar Rounds, (200/800, loading 1), emplacement                                                      |
+| 2-inch Mortar         | 150 gp | 3d8 fire                      | 25 lb. | Mortar Rounds, (200/800, loading 1), two-handed, In-direct                                            |
+| Mortar                | 200 gp | 6d8 fire                      | 40 lb. | Mortar Rounds, (300/850, loading 1), emplacement, two-handed, In-direct                               |
 
 </div>              
 \page
@@ -280,6 +281,7 @@ There is a wide veritiy of ammo types however onle certain ammo type fit in cert
 |Pistol rounds|15 gp|¼ lb.|
 |Rifle rounds|25 gp|½ lb.|
 |Shotgun shells|30 gp|4 lb.|
+|Mortar shells|30 gp|
 
 ## Armor
 
